@@ -9,7 +9,7 @@
 #### 目录
 
 普朗克常数h的诞生和量子化假设的由来
-https://itmanlog.github.io/1901-Planck/
+https://itmanlog.github.io/WEB/1901-Planck/
 
 
 
