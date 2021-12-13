@@ -8,6 +8,10 @@
 普朗克常数h的诞生和量子化假设的由来：
 https://itmanlog.github.io/WEB/1901-Planck/
 
+三卷本《20世纪物理学》读书摘记：
+https://itmanlog.github.io/WEB/Twentieth-Century-Physics-READING-NOTES/
+
+
 
 
 ### 几点声明
